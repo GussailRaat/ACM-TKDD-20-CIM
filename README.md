@@ -13,8 +13,6 @@ For the evaluation of our proposed multi-task CIM framerwork, we use benchmark m
 #### For MOSEI Dataset:
 For trimodal-->>  python trimodal_sentiment_class_emotion_class.py  
 
--------------------------------------------------------
-
 ### Emotion Results Extractor
 
 Follow these steps to extract the threshold based resluls for emotion:
