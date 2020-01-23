@@ -13,15 +13,14 @@ For the evaluation of our proposed multi-task CIM framerwork, we use benchmark m
 #### For MOSEI Dataset:
 For trimodal-->>  python trimodal_sentiment_class_emotion_class.py  
 
-### Emotion Results Extractor
+#### Emotion Results Extractor
 
-Follow these steps to extract the threshold based resluls for emotion:
+Follow these steps to extract the threshold based results for emotion:
 
 * Open the text file i.e., multiTask_emotion_results_extractor.txt
 * Copy and paste on the terminal
 
-#### Example: for trimodal
-##### For preference F1 score:
+###### For preference F1 score:
 
 If the result file name is trimodal_emo.txt then run the following command 
 
@@ -29,7 +28,7 @@ If the result file name is trimodal_emo.txt then run the following command
 
 So based on threshold, desired output will be stored in Emotion-Multi-task.txt (preference is F1-score)
 
-##### For preference W-Acc:
+###### For preference W-Acc:
 
 If the result file name is trimodal_emo.txt then run the following command 
 
