@@ -9,7 +9,8 @@ For the evaluation of our proposed multi-task CIM framerwork, we use benchmark m
 * Download the dataset from given link and set the path in the code accordingly make two folder (i) results and (ii) weights.
 
 -------------------------------------------------------
-### For MOSEI Dataset:
+### For multi-task sentiment and emotion classification
+#### For MOSEI Dataset:
 For trimodal-->>  python trimodal_sentiment_class_emotion_class.py  
 
 -------------------------------------------------------
