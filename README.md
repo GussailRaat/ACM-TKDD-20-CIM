@@ -1,6 +1,6 @@
 ## A Deep Multi-task Contextual Attention Framework for Multi-modal Affect Analysis
 
-For the evaluation of our proposed multi-task CIM framerwork, we use benchmark multi-modal dataset i.e, MOSEI which has both sentiment and emotion classes.
+For the evaluation of our proposed multi-task CIM framerwork, we use benchmark multi-modal dataset i.e, MOSEI which has both sentiment and emotion labels.
 
 ### Dataset
 
